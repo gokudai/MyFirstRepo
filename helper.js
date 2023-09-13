@@ -1,1 +1,1 @@
-console.log("Check main!")
+console.log("Check helper instead!")
